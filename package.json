@@ -4,8 +4,7 @@
   "description": "Telegram bot for expense tracking with Notion integration",
   "main": "api/telegram.js",
   "scripts": {
-    "dev": "vercel dev",
-    "build": "vercel build"
+    "start": "node api/telegram.js"
   },
   "dependencies": {
     "node-fetch": "^3.3.2"
