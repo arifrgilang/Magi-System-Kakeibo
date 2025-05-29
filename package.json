@@ -2,6 +2,7 @@
   "name": "expense-telegram-bot",
   "version": "1.0.0",
   "description": "Telegram bot for expense tracking with Notion integration",
+  "type": "module",
   "main": "api/telegram.js",
   "scripts": {
     "start": "node api/telegram.js"
